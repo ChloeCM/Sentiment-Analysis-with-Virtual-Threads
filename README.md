@@ -18,8 +18,7 @@ This Java-based application is designed for analysing sentiments expressed in tw
 
 #### If running as a JAR file: 
 
-➢ In the terminal, navigate to the project folder and run:  
-o java -jar  SentimentAnalysisWithVirtualThreads.jar 
+➢ In the terminal, navigate to the project folder and run: **java -jar  SentimentAnalysisWithVirtualThreads.jar** 
 
 ## Key Features 
 
@@ -33,14 +32,21 @@ tweet has a positive, negative or neutral undertone.
 
 ➢ Easy-to-Use Interface: Simple console-based interface for smooth user interaction 
 
-➢ Output Management: Saves analysis results in a user-created output directory. 
+➢ Output Management: Saves analysis results in a user-created output directory.
+
 ➢ Error Handling: Effectively manages file reading/writing and checks valid paths.
 
 ## Additional Functions 
-➢ Instant Report: Provides immediate sentiment analysis results for each tweet. 
+
+➢ Instant Report: Provides immediate sentiment analysis results for each tweet.
+
 ➢ Parsing a single text file or a whole directory: Users have the option of using a single text file 
-or a whole directory of lexicons and tweets. 
-➢ In-Depth Sentiment Details: Analyses and reports the overall sentiment of tweets. 
-➢ Simple Options Menu: Users can simply view their saved settings. 
+or a whole directory of lexicons and tweets.
+
+➢ In-Depth Sentiment Details: Analyses and reports the overall sentiment of tweets.
+
+➢ Simple Options Menu: Users can simply view their saved settings.
+
 ➢ Handles Large Data: Efficiently processes large volumes of tweets and lexicons. 
+
 ➢ Data Accuracy: Ensures tweet data is processed correctly and consistently.
