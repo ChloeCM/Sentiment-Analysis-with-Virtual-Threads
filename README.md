@@ -7,17 +7,12 @@ This Java-based application is designed for analysing sentiments expressed in tw
 ## Download and Setup:
 
 - Obtain the project's zip file and extract its contents to a desired location. 
-
 - Open a terminal or command prompt. 
-
 - Navigate to the project's src folder. 
-
 - Compile the Java files using the command: javac ie/atu/sw/*.java 
-
 - Run the application: java ie.atu.sw.Runner (from the src directory). 
 
 #### If running as a JAR file: 
-
 - In the terminal, navigate to the project folder and run: **java -jar  SentimentAnalysisWithVirtualThreads.jar** 
 
 
@@ -33,15 +28,9 @@ This Java-based application is designed for analysing sentiments expressed in tw
 
 ## Additional Functions 
 
-➢ Instant Report: Provides immediate sentiment analysis results for each tweet.
-
-➢ Parsing a single text file or a whole directory: Users have the option of using a single text file 
-or a whole directory of lexicons and tweets.
-
-➢ In-Depth Sentiment Details: Analyses and reports the overall sentiment of tweets.
-
-➢ Simple Options Menu: Users can simply view their saved settings.
-
-➢ Handles Large Data: Efficiently processes large volumes of tweets and lexicons. 
-
-➢ Data Accuracy: Ensures tweet data is processed correctly and consistently.
+- Instant Report: Provides immediate sentiment analysis results for each tweet.
+- Parsing a single text file or a whole directory: Users have the option of using a single text file or a whole directory of lexicons and tweets.
+- In-Depth Sentiment Details: Analyses and reports the overall sentiment of tweets.
+- Simple Options Menu: Users can simply view their saved settings.
+- Handles Large Data: Efficiently processes large volumes of tweets and lexicons. 
+- Data Accuracy: Ensures tweet data is processed correctly and consistently.
