@@ -1,9 +1,8 @@
-# Sentiment-Analysis-with-Virtual-Threads
+#### Java Version: JDK 21.0.1 
 
 ## Project Overview:
 This Java-based application is designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one  or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral. 
   
-##### Java Version: JDK 21.0.1 
 
 ## Download and Setup:
 
@@ -17,7 +16,7 @@ This Java-based application is designed for analysing sentiments expressed in tw
 
 ➢ Run the application: java ie.atu.sw.Runner (from the src directory). 
 
-If running as a JAR file: 
+#### If running as a JAR file: 
 
 ➢ In the terminal, navigate to the project folder and run:  
 o java -jar  SentimentAnalysisWithVirtualThreads.jar 
