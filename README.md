@@ -1,10 +1,10 @@
 #### Java Version: JDK 21.0.1 
 
-## Project Overview: :books:
+## :books: Project Overview:
 This Java-based application is designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one  or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral. 
   
 
-## Download and Setup:
+## :arrow_down: Download and Setup:
 
 - Obtain the project's zip file and extract its contents to a desired location. 
 - Open a terminal or command prompt. 
@@ -17,7 +17,7 @@ This Java-based application is designed for analysing sentiments expressed in tw
 
 
 
-## Key Features 
+## :white_check_mark: Key Features 
 
 - Concurrent Processing: Uses Java virtual threads to process tweets and lexicons simultaneously and quickly. 
 - Custom File Paths: Users can set their own paths for tweets, lexicons, and output.
@@ -26,7 +26,7 @@ This Java-based application is designed for analysing sentiments expressed in tw
 - Output Management: Saves analysis results in a user-created output directory.
 - Error Handling: Effectively manages file reading/writing and checks valid paths.
 
-## Additional Functions 
+## :heavy_plus_sign: Additional Functions 
 
 - Instant Report: Provides immediate sentiment analysis results for each tweet.
 - Parsing a single text file or a whole directory: Users have the option of using a single text file or a whole directory of lexicons and tweets.
