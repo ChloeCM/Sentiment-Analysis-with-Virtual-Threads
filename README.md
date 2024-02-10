@@ -1,17 +1,10 @@
 # Sentiment-Analysis-with-Virtual-Threads
-This Java-based application is designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one  or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral. 
 
-Author:     
-Java Version:    
-Module:     
-Project Overview 
-Chloe Mills (G00425733) 
-JDK 21.0.1 
-H.Dip. in Science (Software Development) -   
-Software Design & Data Structures 
-This Java-based application is designed for analysing sentiments expressed in tweets using virtual 
-threads to handle large volumes of tweet data efficiently. The application allows a user to choose one 
-or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral. 
+## Description of Project:
+This Java-based application is designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one  or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral. 
+  
+#### Java Version: JDK 21.0.1 
+
 Download and Setup: 
 ➢ Obtain the project's zip file and extract its contents to a desired location. 
 ➢ Open a terminal or command prompt. 
