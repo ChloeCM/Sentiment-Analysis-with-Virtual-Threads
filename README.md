@@ -6,7 +6,7 @@ This Java-based application is designed for analysing sentiments expressed in tw
 
 ## Download and Setup:
 
-- ➢ Obtain the project's zip file and extract its contents to a desired location. 
+   ➢ Obtain the project's zip file and extract its contents to a desired location. 
 
 - ➢ Open a terminal or command prompt. 
 
