@@ -6,11 +6,11 @@ This Java-based application is designed for analysing sentiments expressed in tw
 
 ## Download and Setup:
 
-➢ Obtain the project's zip file and extract its contents to a desired location. 
+- ➢ Obtain the project's zip file and extract its contents to a desired location. 
 
-➢ Open a terminal or command prompt. 
+- ➢ Open a terminal or command prompt. 
 
-➢ Navigate to the project's src folder. 
+- ➢ Navigate to the project's src folder. 
 
 ➢ Compile the Java files using the command: javac ie/atu/sw/*.java 
 
