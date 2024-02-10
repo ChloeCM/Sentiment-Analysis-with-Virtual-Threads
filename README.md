@@ -20,21 +20,16 @@ This Java-based application is designed for analysing sentiments expressed in tw
 
 - In the terminal, navigate to the project folder and run: **java -jar  SentimentAnalysisWithVirtualThreads.jar** 
 
+
+
 ## Key Features 
 
-➢ Concurrent Processing: Uses Java virtual threads to process tweets and lexicons 
-simultaneously and quickly. 
-
-➢ Custom File Paths: Users can set their own paths for tweets, lexicons, and output.
-
-➢ Lexicon Analysis: Uses different lexicons to accurately score sentiments to determine if a 
-tweet has a positive, negative or neutral undertone.  
-
-➢ Easy-to-Use Interface: Simple console-based interface for smooth user interaction 
-
-➢ Output Management: Saves analysis results in a user-created output directory.
-
-➢ Error Handling: Effectively manages file reading/writing and checks valid paths.
+- Concurrent Processing: Uses Java virtual threads to process tweets and lexicons simultaneously and quickly. 
+- Custom File Paths: Users can set their own paths for tweets, lexicons, and output.
+- Lexicon Analysis: Uses different lexicons to accurately score sentiments to determine if a tweet has a positive, negative or neutral undertone.  
+- Easy-to-Use Interface: Simple console-based interface for smooth user interaction 
+- Output Management: Saves analysis results in a user-created output directory.
+- Error Handling: Effectively manages file reading/writing and checks valid paths.
 
 ## Additional Functions 
 
